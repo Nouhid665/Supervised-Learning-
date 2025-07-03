@@ -16,7 +16,15 @@ This repository contains clear and beginner-friendly implementations of key **su
 - K-Nearest Neighbors (KNN)
 - Naive Bayes
 - Support Vector Machine (SVM)
-- Random Forest (coming soon)
+- Random Forest 
 - ...and more to come
 
 ## 🔧 Getting Started
+
+Who Is This For?
+Beginners in Machine Learning
+
+Students studying AI/ML courses
+
+Anyone who prefers to learn by understanding the math and code behind the models
+
